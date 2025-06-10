@@ -3,3 +3,14 @@ body {
     color: black;
     
 }
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+div {
+    background-color: aquamarine;
+    border-radius: 2px;
+    font-size: 20px;
+}
